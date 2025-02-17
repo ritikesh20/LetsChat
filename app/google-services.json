@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "677459248269",
+    "project_id": "wrchat-b730a",
+    "storage_bucket": "wrchat-b730a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677459248269:android:1251d3558c4266c1690ec4",
+        "android_client_info": {
+          "package_name": "com.example.wechat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdvh6c6bwUo0BMhl63iIujLj6L5ISKWo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
